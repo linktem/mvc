@@ -1,5 +1,5 @@
 <?php
-
+echo 123;
 require 'config.php';
 require 'library.config.php';
 require LIB_ROOT_BASE . '/DbConfig.class.php';
