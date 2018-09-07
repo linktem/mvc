@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'yicon';  /* project id 360413 */
+    src: url('fonts/yicon.eot');
+    src: url('fonts/yicon.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yicon.woff') format('woff'),
+        url('fonts/yicon.ttf') format('truetype'),
+        url('fonts/yicon.svg#iconfont') format('svg');
+}
+.yicon {
+    font-family:"yicon" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: top;
+}
